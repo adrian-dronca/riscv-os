@@ -1,0 +1,9 @@
+# Local VS Code configuration
+.vscode/
+
+# Build artifacts
+*.o
+*.elf
+
+# Debug/runtime output
+uart.log
